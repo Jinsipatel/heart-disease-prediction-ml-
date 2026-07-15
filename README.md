@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning (Streamlit App)
+# Heart Disease Prediction using Machine Learning 
 
 An interactive web application that predicts the presence of heart disease using patient health data (UCI Heart Disease dataset). The project trains and compares four classification algorithms, validates results using cross-validation, dynamically selects the best-performing model, and provides a Streamlit-based UI for exploring the data, comparing models, and predicting risk for a new patient in real time.
 
@@ -79,7 +79,7 @@ For the best experience, run `app.py`.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/heart-disease-prediction-ml.git
+   git clone https://github.com/Jinsipatel/heart-disease-prediction-ml-.git
    cd heart-disease-prediction-ml
    ```
 
@@ -107,4 +107,8 @@ For the best experience, run `app.py`.
 | **Feature Importance** | Feature importance chart for the best-selected model (Random Forest / XGBoost) |
 | **Predict** | Interactive form to enter patient details and get a real-time heart disease prediction with confidence score |
 
----
+## Author & Contact
+
+Jinni patel
+
+E_mail:jinnipatel1307@gmail.com
