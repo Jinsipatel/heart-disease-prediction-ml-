@@ -109,6 +109,6 @@ For the best experience, run `app.py`.
 
 ## Author & Contact
 
-Jinni patel
+Jinsi patel
 
-E_mail:jinnipatel1307@gmail.com
+E_mail:jinsipatel1307@gmail.com
